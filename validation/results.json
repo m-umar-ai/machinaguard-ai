@@ -1,0 +1,41 @@
+{
+  "n_degradation_runs": 24,
+  "per_machine_calibrated": {
+    "degradation": {
+      "detection_rate": 1.0,
+      "median_lead_ticks": 46.0,
+      "median_lead_fraction_of_life": 0.61,
+      "baseline_detection_rate": 1.0,
+      "baseline_median_lead_ticks": 34.0
+    },
+    "healthy": {
+      "ticks": 3000,
+      "ml_false_alarms_per_1000": 2.0,
+      "baseline_false_alarms_per_1000": 0.0
+    },
+    "sensor_fault": {
+      "runs": 12,
+      "system_recommends_sensor_check": 12,
+      "baseline_raises_mechanical_alarm": 12
+    }
+  },
+  "generic_pretrained_no_calibration": {
+    "degradation": {
+      "detection_rate": 1.0,
+      "median_lead_ticks": 58.5,
+      "median_lead_fraction_of_life": 0.84,
+      "baseline_detection_rate": 1.0,
+      "baseline_median_lead_ticks": 34.5
+    },
+    "healthy": {
+      "ticks": 3000,
+      "ml_false_alarms_per_1000": 194.0,
+      "baseline_false_alarms_per_1000": 0.0
+    },
+    "sensor_fault": {
+      "runs": 12,
+      "system_recommends_sensor_check": 12,
+      "baseline_raises_mechanical_alarm": 11
+    }
+  }
+}

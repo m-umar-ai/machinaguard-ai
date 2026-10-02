@@ -1,0 +1,6 @@
+{"_note": "SIMULATED roster for demo.",
+ "technicians": [
+  {"name": "Technician A", "skills": ["mechanical", "bearing", "alignment"], "shift": "day", "available": true},
+  {"name": "Technician B", "skills": ["instrumentation", "vibration", "calibration"], "shift": "day", "available": true},
+  {"name": "Technician C", "skills": ["electrical", "motor"], "shift": "night", "available": true}
+ ]}

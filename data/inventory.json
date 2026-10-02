@@ -1,0 +1,7 @@
+{"_note": "SIMULATED inventory for demo. Replace with ERP/CMMS export.",
+ "parts": {
+  "bearing_set": {"name": "Bearing set (DE + NDE), matched", "qty": 1, "lead_time_days": 0},
+  "seal_kit": {"name": "Seal kit", "qty": 3, "lead_time_days": 0},
+  "grease": {"name": "Bearing grease (specified grade)", "qty": 6, "lead_time_days": 0},
+  "accelerometer": {"name": "Vibration accelerometer + cable", "qty": 0, "lead_time_days": 5}
+ }}
